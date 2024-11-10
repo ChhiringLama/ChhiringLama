@@ -3,7 +3,7 @@ I'm a web development enthusiast currently pursuing a Bachelor's in Computer App
 
 
 ## Tech I have learned 
-<p align="center" style="display:flex;">
+<p align="center" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
