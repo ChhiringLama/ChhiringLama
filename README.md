@@ -1,5 +1,5 @@
 # Hi, I'm Chhiring Lama 👋  
-I'm a web development enthusiast currently pursuing a Bachelor's in Computer Applications in Nepal. My focus is on building strong front-end skills with HTML, CSS, and JavaScript, alongside backend skills in Node.js and databases. I'm aiming to develop full-stack expertise, particularly with the MERN stack. I am primarily proficient in making proper frontEnd of a web application.
+I'm a web development enthusiast currently pursuing a Bachelor's in Computer Applications in Nepal. My focus is on building strong front-end skills with HTML, CSS, and JavaScript, alongside backend skills in Node.js and databases. I'm aiming to develop full-stack expertise, particularly with the MERN stack. I am primarily proficient in making proper frontend of a web application.
 
 
 ## Tech I have learned 
